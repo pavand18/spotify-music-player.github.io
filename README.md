@@ -1,2 +1,4 @@
-# FILES
-Contains all coding work
+# spotify music player
+
+## Created from scratch using html css and js.
+
